@@ -17,4 +17,9 @@ Call Center Operations Optimization is the process of improving the efficiency, 
 - Statistical Metrics: Average & 95th percentile wait, abandonment rates.
 - Cost Function Analysis: Labor vs. delay cost.
 
+🚀Tools & Tech
+- SimPy for discrete-event simulation
+- Matplotlib for visualization
+- Numpy, Pandas
+
 
